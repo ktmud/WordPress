@@ -1,0 +1,8 @@
+{
+  "require": {
+    "php": ">=7.3",
+    "ext-gd": "*",
+    "ext-bcmath": "*",
+    "ext-exif": "*"
+  }
+}
